@@ -1,6 +1,6 @@
 QR Code Generator
 A clean and responsive QR code generator built with HTML5, CSS3, and JavaScript that utilizes the GoQR.me API.
-![image] (https://github.com/thetnaing-dh/JavaScript-QR-Code-Generator/blob/8d7f0bd51826e1d9a2db2d35dca86e7823cee2b5/QR%20Code%20Generator.png)
+![image](https://github.com/thetnaing-dh/JavaScript-QR-Code-Generator/blob/8d7f0bd51826e1d9a2db2d35dca86e7823cee2b5/QR%20Code%20Generator.png)
 Features
 Generate QR codes from text or URLs
 
