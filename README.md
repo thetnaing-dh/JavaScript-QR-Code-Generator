@@ -27,11 +27,10 @@ This project uses the GoQR.me API to generate QR codes. The implementation is li
 
 ### File Structure
 
-qr-code-generator/
-
-    ├── index.html      # Main HTML file  
-    ├── style.css       # Styling for the application  
-    └── script.js       # JavaScript functionality
+    qr-code-generator/
+        ├── index.html      # Main HTML file  
+        ├── style.css       # Styling for the application  
+        └── script.js       # JavaScript functionality
   
 ### Live Demo
 You can view a live demo of this project at [JavaScript QR Code Generator](https://thetnaing-dh.github.io/JavaScript-QR-Code-Generator/).
