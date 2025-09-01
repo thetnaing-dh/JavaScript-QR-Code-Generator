@@ -29,7 +29,9 @@ This project uses the GoQR.me API to generate QR codes. The implementation is li
 
 qr-code-generator/
   ├── index.html      # Main HTML file
+  
   ├── style.css       # Styling for the application
+  
   └── script.js       # JavaScript functionality
   
 ### Live Demo
